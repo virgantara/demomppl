@@ -1,3 +1,4 @@
 Bismillah
 
 Yuk belajar git
+biar pinter
